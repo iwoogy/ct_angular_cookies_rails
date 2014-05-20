@@ -1,0 +1,13 @@
+---
+module:
+  name: "ngCookies"
+uis:
+  - name: $cookies
+    type: service
+  - name: $cookieStore
+    type: service
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
