@@ -1,3 +1,3 @@
 module CtAngularCookiesRails
-  VERSION = "0.0.1"
+  VERSION = "1.2.16"
 end
